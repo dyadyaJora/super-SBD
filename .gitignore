@@ -6,6 +6,6 @@ npm-debug.log*
 # NPM modules
 node_modules
 
-# Ignore front envirement(ставится вместе с express, но пока что нафиг не надо)
+# Ignore front envirement(СЃС‚Р°РІРёС‚СЃСЏ РІРјРµСЃС‚Рµ СЃ express, РЅРѕ РїРѕРєР° С‡С‚Рѕ РЅР°С„РёРі РЅРµ РЅР°РґРѕ)
 views
 public
