@@ -1,7 +1,7 @@
 # Logs
- logs
- *.log
- npm-debug.log*
+logs
+*.log
+npm-debug.log*
 
 # NPM modules
- node_modules
+node_modules
