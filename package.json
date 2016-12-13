@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "super database application with MongoDB",
   "author": "TheNech&dyadyaJora",
+  "main": "app.js",
   "scripts": {
     "start": "node ./bin/www"
   },
