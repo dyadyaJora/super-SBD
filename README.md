@@ -1,4 +1,5 @@
 # super-SBD
-база данных на mongoDB
-123
-Hello Worls
+
+Запуск приложения:
+* npm install
+* npm start
