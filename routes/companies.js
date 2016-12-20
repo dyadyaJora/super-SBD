@@ -6,4 +6,8 @@ router.get('/', function(req, res, next) {
   res.send('companies here');
 });
 
+router.get('/:id?', function(req, res, next) {
+	res.send('Company' + req.params.id);
+});
+
 module.exports = router;
