@@ -5,7 +5,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.send('Hello World!!!'); //заменить на sendFile()
+  res.sendFile('public/index.html');
 });
 
 
