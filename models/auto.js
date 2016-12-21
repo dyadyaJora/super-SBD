@@ -2,7 +2,7 @@ var mongoose = require('mongoose');
 
 var Auto = new mongoose.Schema({
 		Brand: {
-			type: Schema.Types.ObjectId, ref: 'Company', required: true
+			type: mongoose.Schema.Types.ObjectId, ref: 'Company', required: true
 		},
 		Name: {
 			type: String
@@ -12,7 +12,7 @@ var Auto = new mongoose.Schema({
 		},
 		Drive: {
 			type: String
-		}
+		},
 		Size: {
 			Length: { type: String},
 			Width: { type: String},

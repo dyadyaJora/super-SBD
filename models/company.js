@@ -7,11 +7,11 @@ var Company = new mongoose.Schema({
 	        required: true
     	},
     	Country: {
-    		type: String;
+    		type: String,
     		required: true
     	},
     	Year: {
-    		type: Date;
+    		type: Date
     	} 
 });
 
