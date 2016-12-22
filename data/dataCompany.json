@@ -1,50 +1,60 @@
 [
-	{
+	{	
+		"Logo":"logo/audi.png",
 		"Brand": "Audi",
 		"Country": "Germany",
 		"Year": "1909"
 	},
-	{
+	{	
+		"Logo":"logo/bmw.png",
 		"Brand": "BMW",
 		"Country": "Germany",
 		"Year": "1916"
 	},
-	{
+	{	
+		"Logo":"logo/chevrolet.png",
 		"Brand": "Chevrolet",
 		"Country": "USA",
 		"Year": "1911"
 	},
-	{
+	{	
+		"Logo":"logo/ford.png",
 		"Brand": "Ford",
 		"Country": "USA",
 		"Year": "1903"
 	},
-	{
+	{	
+		"Logo":"logo/honda.png",
 		"Brand": "Honda",
 		"Country": "Japan",
 		"Year": "1948"
 	},
-	{
+	{	
+		"Logo":"logo/jaguar.png",
 		"Brand": "Jaguar",
 		"Country": "UK",
 		"Year": "1922"
 	},	
-	{
+	{	
+		"Logo":"logo/lamborghini.png",
 		"Brand": "Lamborghini",
 		"Country": "Italy",
 		"Year": "1963"
 	},
-	{
+	{	
+		"Logo":"logo/land_rover.png",
 		"Brand": "Land Rover",
 		"Country": "UK",
 		"Year": "1948"
 	},
-	{
+	{	
+		"Logo":"logo/mercedes.png",
 		"Brand": "Mercedes-Benz",
 		"Country": "Germany",
 		"Year": "1926"
 	},
-	{
+	{	
+		"Logo":"logo/nissan.png",
 		"Brand": "Nissan",
 		"Country": "Japan",
 		"Year": "1933"
