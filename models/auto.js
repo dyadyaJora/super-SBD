@@ -4,6 +4,9 @@ var Auto = new mongoose.Schema({
 		Brand: {
 			type: mongoose.Schema.Types.ObjectId, ref: 'Company', required: true
 		},
+		Logo: {
+			type: String
+		},
 		Name: {
 			type: String
 		},

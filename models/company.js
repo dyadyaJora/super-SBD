@@ -6,6 +6,9 @@ var Company = new mongoose.Schema({
 	        unique: true,
 	        required: true
     	},
+        Logo: {
+            type: String
+        },
     	Country: {
     		type: String,
     		required: true
