@@ -24,7 +24,7 @@
 		}
 	},
 	{
-		"Logo":"3 series.jpg",
+		"Logo":"public/image/cars/3series.jpg",
 		"Brand":"BMW",
 		"Name":"3-Series",
 		"Type":"sedan",
@@ -36,7 +36,7 @@
 		}
 	},
 	{
-		"Logo":"public/image/cars/7 series.png",
+		"Logo":"public/image/cars/7series.png",
 		"Brand":"BMW",
 		"Name":"7-Series",
 		"Type":"sedan",
