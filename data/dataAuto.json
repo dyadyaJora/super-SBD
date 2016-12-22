@@ -1,0 +1,242 @@
+[
+	{
+		"Logo":"public/image/cars/a3.png",
+		"Brand":"Audi",
+		"Name":"A3",
+		"Type":"hatch",
+		"Drive":"front",
+		"Size": {
+			"Length":"4152",
+			"Width":"1735",
+			"Height":"1423"
+		}
+	},
+	{
+		"Logo":"public/image/cars/r8.png",
+		"Brand":"Audi",
+		"Name":"R8",
+		"Type":"coupe",
+		"Drive":"four",
+		"Size": {
+			"Length":"4431",
+			"Width":"1904",
+			"Height":"1249"
+		}
+	},
+	{
+		"Logo":"public/image/cars/3series.jpg",
+		"Brand":"BMW",
+		"Name":"3-Series",
+		"Type":"sedan",
+		"Drive":"back",
+		"Size": {
+			"Length":"4624",
+			"Width":"1811",
+			"Height":"1429"
+		}
+	},
+	{
+		"Logo":"public/image/cars/7series.png",
+		"Brand":"BMW",
+		"Name":"7-Series",
+		"Type":"sedan",
+		"Drive":"four",
+		"Size": {
+			"Length":"5098",
+			"Width":"1902",
+			"Height":"1467"
+		}
+	},
+	{
+		"Logo":"public/image/cars/camaro.png",
+		"Brand":"Chevrolet",
+		"Name":"Camaro",
+		"Type":"coupe",
+		"Drive":"back",
+		"Size": {
+			"Length":"4780",
+			"Width":"1900",
+			"Height":"1350"
+		}
+	},
+	{
+		"Logo":"public/image/cars/tahoe.jpg",
+		"Brand":"Chevrolet",
+		"Name":"Tahoe",
+		"Type":"suv",
+		"Drive":"four",
+		"Size": {
+			"Length":"5055",
+			"Width":"1956",
+			"Height":"1829"
+		}
+	},
+	{
+		"Logo":"public/image/cars/mustang.jpg",
+		"Brand":"Ford",
+		"Name":"Mustang",
+		"Type":"coupe",
+		"Drive":"back",
+		"Size": {
+			"Length":"4783",
+			"Width":"1915",
+			"Height":"1382"
+		}
+	},
+	{
+		"Logo":"public/image/cars/mondeo.png",
+		"Brand":"Ford",
+		"Name":"Mondeo",
+		"Type":"sedan",
+		"Drive":"front",
+		"Size": {
+			"Length":"4869",
+			"Width":"1852",
+			"Height":"1476"
+		}
+	},
+	{
+		"Logo":"public/image/cars/crv.png",
+		"Brand":"Honda",
+		"Name":"CR-V",
+		"Type":"suv",
+		"Drive":"suv",
+		"Size": {
+			"Length":"4510",
+			"Width":"1780",
+			"Height":"1770"
+		}
+	},
+	{
+		"Logo":"public/image/cars/nsx.png",
+		"Brand":"Honda",
+		"Name":"NSX",
+		"Type":"coupe",
+		"Drive":"back",
+		"Size": {
+			"Length":"4470",
+			"Width":"1940",
+			"Height":"1215"
+		}
+	},
+	{
+		"Logo":"public/image/cars/ftype.png",
+		"Brand":"Jaguar",
+		"Name":"F-Type",
+		"Type":"coupe",
+		"Drive":"back",
+		"Size": {
+			"Length":"4470",
+			"Width":"1923",
+			"Height":"1308"
+		}
+	},
+	{
+		"Logo":"public/image/cars/xj.png",
+		"Brand":"Jaguar",
+		"Name":"XJ",
+		"Type":"sedan",
+		"Drive":"back",
+		"Size": {
+			"Length":"5123",
+			"Width":"1895",
+			"Height":"1448"
+		}
+	},
+	{
+		"Logo":"public/image/cars/defender.png",
+		"Brand":"Land Rover",
+		"Name":"Defender",
+		"Type":"suv",
+		"Drive":"four",
+		"Size": {
+			"Length":"4660",
+			"Width":"1791",
+			"Height":"2134"
+		}
+	},
+	{
+		"Logo":"public/image/cars/range_rover.png",
+		"Brand":"Land Rover",
+		"Name":"Range Rover",
+		"Type":"suv",
+		"Drive":"four",
+		"Size": {
+			"Length":"4999",
+			"Width":"2073",
+			"Height":"1835"
+		}
+	},
+	{
+		"Logo":"public/image/cars/aventador.png",
+		"Brand":"Lamborghini",
+		"Name":"Aventador",
+		"Type":"coupe",
+		"Drive":"four",
+		"Size": {
+			"Length":"4780",
+			"Width":"2265",
+			"Height":"1136"
+		}
+	},
+	{
+		"Logo":"public/image/cars/venemo.png",
+		"Brand":"Lamborghini",
+		"Name":"Venemo",
+		"Type":"coupe",
+		"Drive":"four",
+		"Size": {
+			"Length":"5020",
+			"Width":"2075",
+			"Height":"1165"
+		}
+	},
+	{
+		"Logo":"public/image/cars/w213.jpeg",
+		"Brand":"Mercedes-Benz",
+		"Name":"W213",
+		"Type":"sedan",
+		"Drive":"back",
+		"Size": {
+			"Length":"4923",
+			"Width":"1940",
+			"Height":"1468"
+		}
+	},
+	{
+		"Logo":"public/image/cars/w222.png",
+		"Brand":"Mercedes-Benz",
+		"Name":"W222",
+		"Type":"sedan",
+		"Drive":"four",
+		"Size": {
+			"Length":"5116",
+			"Width":"1899",
+			"Height":"1496"
+		}
+	},
+	{
+		"Logo":"public/image/cars/s15.png",
+		"Brand":"Nissan",
+		"Name":"Silvia S15",
+		"Type":"coupe",
+		"Drive":"back",
+		"Size": {
+			"Length":"4445",
+			"Width":"1695",
+			"Height":"1285"
+		}
+	},
+	{
+		"Logo":"public/image/cars/gtr.png",
+		"Brand":"Nissan",
+		"Name":"GT-R",
+		"Type":"coupe",
+		"Drive":"four",
+		"Size": {
+			"Length":"4671",
+			"Width":"1895",
+			"Height":"1369"
+		}
+	}
+]
